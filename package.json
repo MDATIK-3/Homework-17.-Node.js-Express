@@ -1,0 +1,20 @@
+{
+  "name": "mini-library-api",
+  "version": "1.0.0",
+  "description": "A RESTful API for managing a virtual library using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "library"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
